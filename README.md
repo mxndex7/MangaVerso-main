@@ -1,6 +1,6 @@
 # MangaVerso - Loja de Mangás Online
 <p align="center">
-  <img src="static/assets/b.jpg" alt="Meu Sistema" width="75%">
+  <img src="static/assets/xx.jpg" alt="Meu Sistema" width="75%">
 </p>
 
 ## Features 
