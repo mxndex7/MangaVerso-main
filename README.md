@@ -1,6 +1,7 @@
 # MangaVerso - Loja de Mangás Online
-
-Uma plataforma web moderna para explorar, buscar e comprar mangás.
+<p align="center">
+  <img src="static/assets/b.jpg" alt="Meu Sistema" width="75%">
+</p>
 
 ## Features 
 
